@@ -1,0 +1,8 @@
+pyspark==3.2.4
+numpy
+scikit-learn
+pandas==1.5.3
+polars
+jupyter
+jupyterlab
+pyarrow
